@@ -1,0 +1,12 @@
+# Ubuntu'ya Google Chrome Kurulumu
+
+Bu kılavuz, Ubuntu işletim sistemine Google Chrome tarayıcısını nasıl kuracağınızı adım adım açıklar.
+
+## Adımlar
+
+### 1. Google Chrome .deb Paketini İndirin
+
+Terminali açın ve aşağıdaki komutu kullanarak Google Chrome'un son sürümünün .deb paketini indirin:
+
+```sh
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
